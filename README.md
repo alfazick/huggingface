@@ -15,3 +15,5 @@ pip install package_name
 # To update ml_environment
 conda env update -f environment.yml
 
+# Activate environment
+conda activate ml_env
